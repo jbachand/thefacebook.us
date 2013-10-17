@@ -1,0 +1,1 @@
+<script> top.location.href='http://apps.facebook.com/thefacebook_us'</script>

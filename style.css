@@ -1,0 +1,300 @@
+  .title {
+    color:#000000;
+    font-size:18px;
+    font-weight:bold;
+    font-family:tahoma,arial,sans-serif;
+    text-decoration:none;
+  }
+  
+  .medium {
+    color:#000000;
+    font-size:12px;
+    font-weight:none;
+    font-family:tahoma,arial,sans-serif;
+    text-decoration:none;
+  }
+  .larger {
+    color:#000000;
+    font-size:13px;
+    font-weight:none;
+    font-family:tahoma,arial,sans-serif;
+    text-decoration:none;
+  }
+
+  .larger-a {
+    color:#538ADC;
+    font-size:13px;
+    font-weight:none;
+    font-family:tahoma,arial,sans-serif;
+    text-decoration:none;
+  }
+  .larger-a-white {
+    color:#FFFFFF;
+    font-size:12px;
+    font-weight:none;
+    font-family:tahoma,arial,sans-serif;
+    text-decoration:none;
+  }
+
+  .larger-a:hover {
+    color:#77C9F3;
+    font-size:13px;
+    font-weight:none;
+    font-family:tahoma,arial,sans-serif;
+    text-decoration:underline;
+  }
+  .larger-a-white:hover {
+    color:#77C9F3;
+    font-size:12px;
+    font-weight:none;
+    font-family:tahoma,arial,sans-serif;
+    text-decoration:underline;
+  }
+  
+  select {
+    font-size:11px;
+    font-family:tahoma,arial,sans-serif;
+  } 
+   
+  .white {
+    color:#FFFFFF;
+    font-size:12px;
+    font-weight:none;
+    font-family:tahoma,arial,sans-serif;
+    text-decoration:none;
+  }
+
+  .blue {
+    color:#3B5998;
+    font-size:12px;
+    font-weight:none;
+    font-family:tahoma,arial,sans-serif;
+    text-decoration:none;
+  } 
+
+  .menu {
+    color:#FFFFFF;
+    font-size:11px;
+    font-weight:none;
+    font-family:tahoma,arial,sans-serif;
+    text-decoration:none;
+  }
+
+  .menu:hover {
+    color:#77C9F3;
+    font-size:11px;
+    font-weight:none;
+    font-family:tahoma,arial,sans-serif;
+    text-decoration:none;
+  }
+
+  .alternate {
+    color:#3B5998;
+    font-size:11px;
+    font-weight:none;
+    font-family:tahoma,arial,sans-serif;
+    text-decoration:none;
+  }
+
+  .alternate:hover {
+    color:#000000;
+    font-size:11px;
+    font-weight:none;
+    font-family:tahoma,arial,sans-serif;
+    text-decoration:underline;
+  }
+  
+  a {
+    color:#538ADC;
+    font-size:11px;
+    font-weight:none;
+    font-family:tahoma,arial,sans-serif;
+    text-decoration:none;
+  }
+  
+  a:hover {
+    color:#77C9F3;
+    font-size:11px;
+    font-weight:none;
+    font-family:tahoma,arial,sans-serif;
+    text-decoration:underline;
+  }
+
+  .bordertable {
+    border-width:1px;
+    border-color:#3B5998;
+    border-style:solid;
+  }
+  
+   .bordertop {
+    border-top-width:1px;
+    border-top-color:#3B5998;
+    border-top-style:solid;
+  }
+
+  .dashedtable {
+    border-width:1px;
+    border-color:#3B5998;
+    border-style:dashed;
+  }
+
+  .bottomborder {
+    border-style:solid;
+    border-color:#3B5998;
+    border-top-width:0px;
+    border-bottom-width:1px;
+    border-right-width:0px;
+    border-left-width:0px;
+  }
+
+  .one-column {
+    border-style:solid;
+    border-top-width:1px;
+    border-right-width:1px;
+    border-left-width:1px;
+    border-bottom-width:0px;
+    border-color:#3B5998;
+    color:#000000;
+    font-size:11px;
+    font-weight:none;
+    font-family:tahoma,arial,sans-serif;
+    text-decoration:none;
+  }
+
+  .text {
+    font-family:Serif;
+    font-size:11px;
+    font-weight:none;
+    text-decoration:none;
+  }
+  
+  .td0 {
+    background-color:#D9DFEA;
+    border:0;
+    color:#000000;
+    font-size:11px;
+    font-weight:none;
+    font-family:tahoma,arial,sans-serif;
+    text-decoration:none;
+  }
+
+  .td1 {
+    background-color:#86A1CE;
+    border:0;
+    color:#000000;
+    font-size:11px;
+    font-weight:none;
+    font-family:tahoma,arial,sans-serif;
+    text-decoration:none;
+  }    
+
+  .schedule_table {
+    border-right-width:0px;
+    border-bottom-width:0px;
+    border-left-width:1px;
+    border-top-width:1px;
+    border-style:solid;
+    border-color:#000000;
+  }
+
+  .top-border {
+    border-right-width:0px;
+    border-bottom-width:0px;
+    border-left-width:0px;
+    border-top-width:1px;
+    border-style:solid;
+    border-color:#3B5998;
+  }
+  
+  .schedule {
+    border-right-width:1px;
+    border-bottom-width:1px;
+    border-left-width:0px;
+    border-top-width:0px;
+    border-style:solid;
+    border-color:#000000;
+    color:#000000;
+    font-size:11px;
+    font-weight:none;
+    font-family:tahoma,arial,sans-serif;
+    text-decoration:none;
+  }
+
+  .border-td {
+    color:#000000;
+    border-right-width:1px;
+    border-bottom-width:1px;
+    border-left-width:1px;
+    border-top-width:1px;
+    border-style:solid;
+    border-color:#3B5998;
+    font-size:11px;
+    font-weight:none;
+    font-family:tahoma,arial,sans-serif;
+    text-decoration:none;
+  }
+  
+  td {
+    border:0;
+    color:#000000;
+    font-family:tahoma,arial,sans-serif;
+    font-size:11px;
+    font-weight:none;
+    text-decoration:none;
+  }
+  
+  .inputtext {
+    border:double;
+    border-width:1;
+    border-color:#666666;
+    background-color:#D9DFEA;
+    color:#000000;
+    font-size:11px;
+    font-family:tahoma,arial,sans-serif;
+  }
+  
+  .inputtextprofile {
+	width: 200px !important;
+    border:double;
+    border-width:1;
+    border-color:#666666;
+    background-color:#D9DFEA;
+    color:#000000;
+    font-size:11px;
+    font-family:tahoma,arial,sans-serif;
+  }
+  
+  .inputtextareaprofile {
+	width: 200px !important;
+	height: 75px !important;
+    border:double;
+    border-width:1;
+    border-color:#666666;
+    background-color:#D9DFEA;
+    color:#000000;
+    font-size:11px;
+    font-family:tahoma,arial,sans-serif;
+  }
+  
+  .inputsubmit {
+    border-style:solid;
+    border-top-width:1px;
+    border-left-width:1px;
+    border-bottom-width:2px;
+    border-right-width:2px;
+    border-top-color:#D9DFEA;
+    border-left-color:#D9DFEA;
+    border-bottom-color:#3B5998;
+    border-right-color:#3B5998;
+    background-color:#538ADC;
+    color:#FFFFFF;
+    font-size:11px;
+    font-weight:none;
+    font-family:tahoma,arial,sans-serif;
+  }
+  
+  .adtable {
+    border-width:1px;
+    border-color:lightgrey;
+    border-style:solid;
+  }
