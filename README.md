@@ -6,7 +6,7 @@ This is very messy and scattered setup. It will take customization for it to wor
 
 ### MySQL Setup:
   
-* SCHEMA: /admin/dbschema.sql
+* SCHEMA: /admin/SCHEMA.sql
 * CREDENTIALS: /admin/classes/lib/Database.php
 
 ### Site Setup/ FB App:
@@ -14,6 +14,10 @@ This is very messy and scattered setup. It will take customization for it to wor
 All of the loading takes place in: /admin/classes/classes.php
 
 FB and site settings are in here that need to be edited to your configuration
+
+### Initial Setup
+
+Login, then go into your mysql editor, and change your accountstatusid to 9 in the user table under your row
 
 ### Admin Panel:
 
